@@ -17,5 +17,8 @@
     "dev": "nodemon --exec babel-node --presets es2015 server/index.js"
   },
   "author": "Olly.W",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "4.1.1"
+  }
 }
